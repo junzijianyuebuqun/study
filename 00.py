@@ -54,4 +54,5 @@ response = model.invoke(conversation)
 print(response)  # AIMessage("J'adore créer des applications.")
 print("输出结果正确")
 print("6666")
+print("master test")
 
